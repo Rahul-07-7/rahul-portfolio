@@ -8,7 +8,7 @@ const projects = [
   {
     title: "Portfolio Website",
     image: Portfolio,
-    link: "https://materialdesign-rahul.netlify.app/",
+    link: "https://rahul-portfolio07.netlify.app/",
     description:
       "Personal portfolio built with React and Tailwind CSS showcasing my skills, projects, and experience. Responsive design and smooth user experience with modern UI techniques.",
   },
@@ -22,7 +22,7 @@ const projects = [
   {
     title: "Ceramic (E-commerce)",
     image: Ceramic,
-    link: "https://materialdesign-rahul.netlify.app/",
+    link: "https://ceramicrahul.netlify.app/",
     description:
       "Developed a fully functional E-commerce website using React that allows users to browse menu items, add items to the cart and place orders. Implemented client-side routing, dynamic pages, and a responsive user interface..",
   },

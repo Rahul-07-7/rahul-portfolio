@@ -10,7 +10,7 @@ function Home() {
           <img
             src={rahulImg}
             alt="Rahul Jogadiya"
-            className="h-[70vh]  w-[100vw]  sm:h-[100vh]"
+            className="h-[55vh]  w-[100vw]  sm:h-[100vh]"
           />
           <div className="absolute top-[50%] sm:top-[80%px] md:top-[250px] left-4">
             <h1 className="text-black text-[25px] font-semibold xs:text-[30px] sm:text-[40px] lg:text-[55px]">
