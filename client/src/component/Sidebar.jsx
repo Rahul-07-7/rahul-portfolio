@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import rahulImg from "./Photo.jpeg";
+import rahulImg from "./photo.jpeg";
 
 const sections = [
   { id: "home", label: "Home", icon: "fa-house" },

@@ -14,7 +14,6 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { faDatabase } from "@fortawesome/free-solid-svg-icons";
 
-// Skills array
 const skills = [
   { name: "HTML", icon: faHtml5 },
   { name: "CSS", icon: faCss3Alt },
@@ -26,7 +25,6 @@ const skills = [
   { name: "Git", icon: faGitAlt },
 ];
 
-// Slider settings
 const sliderSettings = {
   dots: true,
   infinite: true,
