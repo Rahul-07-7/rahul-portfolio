@@ -19,7 +19,7 @@ function Contact() {
     setSubmitted(true);
 
     try {
-      const res = await fetch("https://rahul-portfolio-ld1r.onrender.com//contact", {
+      const res = await fetch("https://rahul-portfolio-ld1r.onrender.com/contact", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),
