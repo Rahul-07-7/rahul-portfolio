@@ -7,6 +7,11 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.send("Backend is live ✅");
+});
+
+
 app.post("/contact", async (req, res) => {
   const { name, email, subject, message } = req.body;
 
