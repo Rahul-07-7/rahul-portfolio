@@ -84,6 +84,15 @@ function Resume() {
             <p>Completed Full Stack Development course at IT Desk.</p>
           </Section>
         </div>
+        <div className="mt-3">
+          <a
+            href="./Rahul_Jogadiya.pdf"
+            download
+            className="inline-flex items-center gap-2 px-4 py-2 bg-rose-500 text-white rounded-lg shadow hover:bg-rose-700 transition duration-200"
+          >
+            <i className="fa-solid fa-download"></i> Download Resume
+          </a>
+        </div>
       </div>
     </section>
   );
