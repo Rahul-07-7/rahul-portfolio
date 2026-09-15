@@ -13,9 +13,16 @@ const projects = [
       "Personal portfolio built with React and Tailwind CSS showcasing my skills, projects, and experience. Responsive design and smooth user experience with modern UI techniques.",
   },
   {
+    title: "Candle-World (Ecommerce-Website)",
+    link: "https://https://candleworld.netlify.app/",
+    image: Fresheat,
+    description:
+      "Developed a full-featured food ordering website using ReactVite, a responsive, user-friendly interface. ",
+  },
+  {
     title: "Snacksy (Food-Website)",
     image: Fresheat,
-    link: "https://snacksy.netlify.app/",
+    link: "https://https://freshheat.netlify.app/",
     description:
       "Developed a full-featured food ordering website using React and Node.js, enabling users to browse menu items, filter by category, add items to the cart, and place orders seamlessly. Implemented client-side routing, dynamic pages, and a responsive, user-friendly interface. Integrated full authentication with email functionality, ensuring secure user access and communication.",
   },
